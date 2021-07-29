@@ -1,0 +1,7 @@
+{
+  "name": "Girls-Videos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
